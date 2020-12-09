@@ -10,13 +10,13 @@ width: 100%;
 }
 body {
 height: 100%;
-width: 100%
+width: 100%;
+margin-left: auto;
+margin-right: auto;
 }
 textarea {
 height: 75%;
-width: 80%;
-margin-left: auto;
-margin-right: auto;
+width: 100%;
 }
 </style>
 </head>
@@ -25,9 +25,9 @@ margin-right: auto;
 <p>ブラウザで動くテキストエディタ</p>
 <form name="test">
 <input type="file" id="file"><br>
-<textarea id="text" rows="10" cols="40"></textarea>
+<textarea id="text"></textarea>
 </form><br>
-<input type="text" id="name" value="name"><button onclick="save();">Save</button>
+<input type="text" id="name" placeholder="name"><button onclick="save();">Save</button>
 <script>
 var ele  = document.getElementById('file'); // input要素オブジェクトの取得
  
