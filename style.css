@@ -22,6 +22,10 @@ margin-bottom: 1em;
 margin-top: 1em;
 -webkit-appearance: none;
 }
+input#file {
+font-family: inherit;
+font-size: 0.75em;
+}
 input#name {
 border: none;
 border-radius: 0px;
