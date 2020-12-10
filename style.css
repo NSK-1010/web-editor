@@ -14,7 +14,8 @@ margin-right: auto;
 }
 header {
 width: 100%;
-top: 0;
+margin: 0px;
+padding: 1em;
 text-align: center;
 background: #345189;
 color: #fff;
