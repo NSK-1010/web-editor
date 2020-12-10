@@ -35,7 +35,7 @@ function save() {
       if (!text) { return; }
 
       // 文字列をBlob化
-      var blob = new Blob([text], { type: 'text/plain' });
+      var blob = new Blob([text], { type: 'text/plain;charset=UTF-8' });
 
       // ダウンロード用のaタグ生成
       var a = document.createElement('a');
