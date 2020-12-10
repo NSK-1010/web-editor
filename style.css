@@ -18,6 +18,9 @@ font-family: "Roboto Mono", "Noto Sans JP", monospace;
 border: none;
 border-radius: 0px;
 background: #ddd;
+padding: 1em;
+margin-bottom: 1em;
+margin-top: 1em;
 -webkit-appearance: none;
 }
 input#name {
