@@ -21,6 +21,20 @@ text-align: center;
 background: #345189;
 color: #fff;
 }
+footer {
+width: 100%;
+margin: 0;
+padding: 1em;
+}
+@media only screen and ( min-width: 768px) {
+footer {
+display; grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 1em;
+}
+#page-footer {
+grid-column: 1/4;
+}
 #main {
 width: 80%;
 margin-left: auto;
