@@ -24,6 +24,7 @@ border: none;
 border-radius: 0px;
 background: #ddd;
 -webkit-appearance: none;
+font-family: "Inter", "Noto Sans JP", sans-serif;
 padding: 8px 1px;
 }
 input#name:after {
@@ -35,5 +36,6 @@ border: 0;
 border-radius: 5px;
 background: #007bff;
 color: #fff;
+font-family: "Inter", "Noto Sans JP", sans-serif;
 padding: 8px 16px;
 }
