@@ -193,20 +193,20 @@
        height="148.16667"
        width="147.41072"
        id="rect12"
-       style="fill:#6699ff;stroke-width:0.264999;paint-order:fill markers stroke;filter:url(#filter176)" />
+       style="fill:#bbdefb;stroke-width:0.264999;paint-order:fill markers stroke;filter:url(#filter176)" />
     <rect
        y="47.625008"
        x="51.814304"
        height="112.6369"
        width="109.95951"
        id="rect14"
-       style="fill:#00cc00;stroke-width:0.46131;paint-order:fill markers stroke;filter:url(#filter140)" />
+       style="fill:#f8bbd0;stroke-width:0.46131;paint-order:fill markers stroke;filter:url(#filter140)" />
     <rect
        y="67.279762"
        x="31.75"
        height="109.61309"
        width="112.6369"
        id="rect178"
-       style="fill:#ffcc00;stroke-width:0.264999;paint-order:fill markers stroke;filter:url(#filter190)" />
+       style="fill:#fff9c4;stroke-width:0.264999;paint-order:fill markers stroke;filter:url(#filter190)" />
   </g>
 </svg>
