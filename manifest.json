@@ -2,11 +2,11 @@
   "name":"Pineko Web Editor",
   "short_name":"Pineko Editor",
   "icons": [{
-      "src": "", //アイコン
+      "src": "./icon.svg",
       "sizes":"192x192",
       "type": "image/svg+xml"
     }, {
-      "src": "", //アイコン
+      "src": "./icon.svg",
       "sizes":"512x512",
       "type": "image/png+xml"
     }],
